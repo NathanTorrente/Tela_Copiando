@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+   
+}
+
+p {
+    color: red
+}
+
+.par {
+    color: blueviolet
+}
+
+#Todo {
+
+    margin-top: 150px;
+    display:flex;
+ 
+}
+
+#esquerdo {
+   width: 50%;
+   
+}
+#direito{
+    width: 50%;
+    
+}
+.tabele{
+    border: 1px;
+}
