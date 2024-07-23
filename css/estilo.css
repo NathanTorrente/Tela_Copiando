@@ -1,10 +1,11 @@
 body {
-    background-color: aqua;
+    background-color: rgb(202, 188, 175);
    
 }
 
 p {
-    color: red
+    color: grey;
+    font-size: 23px;
 }
 
 .par {
@@ -15,7 +16,13 @@ p {
 
     margin-top: 150px;
     display:flex;
- 
+   
+    width: 20%;
+    height: 390px;
+    margin: auto; 
+    margin-top: 200px; 
+    border-radius: 16px ;
+    margin-left: 100px;
 }
 
 #esquerdo {
@@ -26,6 +33,36 @@ p {
     width: 50%;
     
 }
-.tabele{
-    border: 1px;
+
+#Div1{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    text-align: center;
+}
+#Div2{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+#Div3{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+#Div4{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 20px;
+    border-radius: 5px;
+    text-align: center;
 }
