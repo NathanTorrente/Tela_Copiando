@@ -2,7 +2,9 @@ body {
     background-color: rgb(202, 188, 175);
    
 }
-
+p{
+margin-bottom: 200px;
+}
 
 h3{
     font-size: 15px;
